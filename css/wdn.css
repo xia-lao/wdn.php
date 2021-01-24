@@ -1,0 +1,16 @@
+@font-face
+{
+font-family: WaerCursive;
+src: url('/lib/WaerCursive.ttf');
+}
+
+@font-face
+{
+font-family: Waer;
+src: url('/lib/Waer.ttf');
+}
+
+.waer {
+  font-family: WaerCursive;
+  font-weight: bold;
+}
